@@ -1,0 +1,27 @@
+Groups Gravity Forms                                                 Changelog
+==============================================================================
+
+* 1.2.1
+  - Fixed: Subscriptions status check needed to validate entry as subscription
+           to avoid validating non-subscriptions as active subscriptions on
+           'Processing' status.
+  - Added: 'Paid' payment_status is recognized and payments are considered
+           valid when they are either 'Approved' or 'Paid' to act on
+           group assignments based on payments.
+  - Added: Translation template
+
+* 1.2.0
+
+  - Fixed: Subscriptions considered active with payment_status 'Processing' so
+           that users are added to groups as soon as subscriptions are created
+           (PayPal Payments Standard)
+  - Added: Allow to add users to groups by field
+
+* 1.1.0
+
+  - (internal)
+  - Groups submenu and debugging option added.
+
+* 1.0.0
+
+  - Initial internal release and testing base.

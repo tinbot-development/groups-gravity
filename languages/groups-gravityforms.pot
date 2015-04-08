@@ -1,0 +1,178 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid   ""
+msgstr  "Project-Id-Version: PACKAGE VERSION\n"
+        "Report-Msgid-Bugs-To: \n"
+        "POT-Creation-Date: 2015-03-13 11:11+0100\n"
+        "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+        "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+        "Language-Team: LANGUAGE <LL@li.org>\n"
+        "Language: \n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=CHARSET\n"
+        "Content-Transfer-Encoding: 8bit\n"
+
+#: includes/class-groups-gravity-forms-form-settings.php:166
+msgid   "<code>define( \"WP_DEBUG\", true );</code></"
+        "p><p><code>define( \"WP_DEBUG_LOG\", true );</code>"
+msgstr  ""
+
+#: includes/class-groups-gravity-forms-form-settings.php:170
+msgid   "<strong>WARNING</strong> : On production sites, form debugging "
+        "should <strong>not</strong> be enabled, otherwise sensitive data may "
+        "be exposed. Make sure to clear the log file in any case."
+msgstr  ""
+
+#: includes/class-groups-gravity-forms-form-settings.php:345
+msgid   "Add new users who register through this form to groups?"
+msgstr  ""
+
+#: includes/class-groups-gravity-forms-form-settings.php:380
+msgid   "Add users who pay through this form to groups?"
+msgstr  ""
+
+#: includes/class-groups-gravity-forms-form-settings.php:318
+msgid   "Add users who submit this form to groups based on a form field?"
+msgstr  ""
+
+#: includes/class-groups-gravity-forms-form-settings.php:286
+msgid   "Add users who submit this form to groups?"
+msgstr  ""
+
+#: includes/class-groups-gravity-forms-form-settings.php:307
+#: includes/class-groups-gravity-forms-form-settings.php:308
+#: includes/class-groups-gravity-forms-form-settings.php:363
+#: includes/class-groups-gravity-forms-form-settings.php:364
+#: includes/class-groups-gravity-forms-form-settings.php:402
+#: includes/class-groups-gravity-forms-form-settings.php:403
+msgid   "Choose groups &hellip;"
+msgstr  ""
+
+#: includes/class-groups-gravity-forms-form-settings.php:141
+msgid   "Debugging"
+msgstr  ""
+
+#: includes/class-groups-gravity-forms-form-settings.php:145
+msgid   "Enable debugging for forms?"
+msgstr  ""
+
+#: includes/class-groups-gravity-forms-form-settings.php:150
+#: includes/class-groups-gravity-forms-form-settings.php:291
+#: includes/class-groups-gravity-forms-form-settings.php:350
+#: includes/class-groups-gravity-forms-form-settings.php:385
+msgid   "Enabled"
+msgstr  ""
+
+#: includes/class-groups-gravity-forms-form-settings.php:282
+msgid   "Group Memberships for Form Submissions"
+msgstr  ""
+
+#: includes/class-groups-gravity-forms-form-settings.php:376
+msgid   "Group Memberships for Payments"
+msgstr  ""
+
+#: includes/class-groups-gravity-forms-form-settings.php:341
+msgid   "Group Memberships for User Registrations"
+msgstr  ""
+
+#: includes/class-groups-gravity-forms-form-settings.php:89
+#: includes/class-groups-gravity-forms-form-settings.php:106
+#: includes/class-groups-gravity-forms-form-settings.php:134
+msgid   "Groups"
+msgstr  ""
+
+#: includes/class-groups-gravity-forms-form-settings.php:335
+msgid   "If enabled and a field is selected, the submitted field values will "
+        "be interpreted as group names and the user will be added to those "
+        "groups if they exist."
+msgstr  ""
+
+#: includes/class-groups-gravity-forms-form-settings.php:154
+#, php-format
+msgid   "If enabled, form submission details and action parameters are logged "
+        "to <code>%s</code>."
+msgstr  ""
+
+#: includes/class-groups-gravity-forms-form-settings.php:353
+msgid   "If enabled, new users who register through this form will be added "
+        "to the chosen groups."
+msgstr  ""
+
+#: includes/class-groups-gravity-forms-form-settings.php:388
+msgid   "If enabled, registered users who are logged in and pay through this "
+        "form will be added to the chosen groups."
+msgstr  ""
+
+#: includes/class-groups-gravity-forms-form-settings.php:294
+msgid   "If enabled, registered users who are logged in and submit this form "
+        "will be added to the chosen groups."
+msgstr  ""
+
+#: includes/class-groups-gravity-forms-form-settings.php:395
+msgid   "If new users are allowed to register through this form, the new user "
+        "is added to the chosen groups if an approved payment is detected for "
+        "the form."
+msgstr  ""
+
+#: includes/class-groups-gravity-forms-form-settings.php:300
+msgid   "If new users are allowed to register through this form, the new user "
+        "is also added to the groups that are chosen here."
+msgstr  ""
+
+#: includes/class-groups-gravity-forms-form-settings.php:162
+#, php-format
+msgid   "Normally, this is done using the following definitions in <code>%s</"
+        "code>:"
+msgstr  ""
+
+#: includes/class-groups-gravity-forms-form-settings.php:425
+msgid   "Note that all users belong to the <em>Registered</em> group "
+        "automatically."
+msgstr  ""
+
+#: includes/class-groups-gravity-forms-form-settings.php:302
+#: includes/class-groups-gravity-forms-form-settings.php:397
+msgid   "Otherwise, this has no effect for visitors who are not logged in and "
+        "submit the form."
+msgstr  ""
+
+#: includes/class-groups-gravity-forms-form-settings.php:175
+#: includes/class-groups-gravity-forms-form-settings.php:416
+msgid   "Save"
+msgstr  ""
+
+#: includes/class-groups-gravity-forms.php:99
+msgid   "The <strong>Groups Gravity Forms Integration</strong> plugin "
+        "requires <a href=\"http://www.itthinx.com/plugins/groups\" target="
+        "\"_blank\">Groups</a> to be installed and activated."
+msgstr  ""
+
+#: includes/class-groups-gravity-forms-form-settings.php:261
+msgid   "The settings have been saved."
+msgstr  ""
+
+#: includes/class-groups-gravity-forms-form-settings.php:393
+msgid   "This <strong>requires</strong> a <em>Gravity Forms Payment Add-On</"
+        "em> and the form to be enabled for payments, otherwise it will have "
+        "no effect."
+msgstr  ""
+
+#: includes/class-groups-gravity-forms-form-settings.php:358
+msgid   "This <strong>requires</strong> the <em>Gravity Forms User "
+        "Registration Add-On</em> and the form to be enabled for user "
+        "registration, otherwise it will have no effect."
+msgstr  ""
+
+#: includes/class-groups-gravity-forms-form-settings.php:427
+msgid   "To choose a group, at least one group other than <em>Registered</em> "
+        "must exist."
+msgstr  ""
+
+#: includes/class-groups-gravity-forms-form-settings.php:158
+msgid   "WordPress debugging and logging must also be enabled for this to "
+        "take effect."
+msgstr  ""
